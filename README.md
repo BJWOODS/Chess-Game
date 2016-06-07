@@ -1,8 +1,8 @@
 # Chess-Game-in-C++
 
-This is a  full functional 1970s retro-bit two player chess game.#
-  A B C D E F G H #
-1 r k b w q b k r #
+This is a  full functional 1970s retro-bit two player chess game.
+  A B C D E F G H 
+1 r k b w q b k r 
 2 p p p p p p p p 
 3 - - - - - - - - 
 4 - - - - - - - - 
