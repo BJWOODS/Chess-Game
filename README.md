@@ -1,4 +1,5 @@
-# Chess-Game-in-C++
+# Chess-Game-in-C++ 
+#View readme in 'raw' to see it formatted correctly.
 
 This is a  full functional 1970s retro-bit two player chess game.
   A B C D E F G H 
