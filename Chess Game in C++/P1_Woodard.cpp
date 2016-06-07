@@ -479,7 +479,7 @@ bool ChessGame::func()
                 cout<<"Current Round"<<endl;
                 cout<<"White = Lowercase & Black = uppercase"<<endl;
                 good = true;
-                cout << "select a piece to move and where to move it. (example: a1a2): ";
+                cout << "select a piece to move and where to move it. (example: a2a3): ";
                 cin >> loc;
                 cin >> y;
                 cin >> nloc;
