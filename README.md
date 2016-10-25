@@ -69,6 +69,6 @@ White's turn
 select a piece to move and where to move it. (example: a2a3): d1d2
 //White tries to move king on to friendly pawn's space
 You cannot move there e41 //Notification and error number will appear.
-                          // This error number can be looked up in the code to reveal why a player cannot move there
+                          //This error number can be looked up in the code to reveal why a player cannot move there
 
 
